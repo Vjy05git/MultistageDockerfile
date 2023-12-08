@@ -1,4 +1,4 @@
-package com.guvi.multistageexample;
+package com.techprimers.multistageexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
